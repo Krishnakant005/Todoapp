@@ -1,6 +1,6 @@
 Certainly! Below is a sample README file for an app with Spring Boot for the backend and React for the frontend, focusing on CRUD operations (Create, Read, Update, Delete) and marking items as complete. Please adjust the details based on your specific project structure and requirements.
 
-# Project Name
+# ToDoApp
 
 ## Description
 
